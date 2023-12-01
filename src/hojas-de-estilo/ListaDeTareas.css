@@ -1,0 +1,14 @@
+.tareas-lista-contenedor {
+  display: flex;
+  /*flex-wrap: wrap;*/
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.cantidad-tareas {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
